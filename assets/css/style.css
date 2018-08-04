@@ -1,0 +1,46 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+H1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: yellow;
+}
+
+H3 {
+    text-align: center;
+}
+
+#questions {
+    background-color: white;
+    color: darkslategray;
+    display: flex;
+}
+
+.jumbotron {
+    background-color: red;
+    margin-top: 15px;
+    color: white;
+}
+
+a {
+    color: white;
+    font-weight: 800;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.btn {
+    text-align: center;
+    white-space: normal;
+    background-color: lightgray;
+    color: darkslategray;
+}
+
+img {
+    float: left;
+    width: 200px;
+    margin-bottom: 15px;
+}
